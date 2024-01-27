@@ -1,7 +1,4 @@
-# Getting Started with Create React App
-
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
+This is a Weather App Created using React. Live Link:- https://weather-app-react-one-mauve.vercel.app/
 ## Available Scripts
 
 In the project directory, you can run:
